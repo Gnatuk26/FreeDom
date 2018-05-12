@@ -1,0 +1,11 @@
+# 
+
+node_modules/*
+
+# mac
+*._*
+.DS_Store
+
+# windows
+RemoteSystemsTempFiles
+Thumbs.db
